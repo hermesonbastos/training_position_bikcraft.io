@@ -5,5 +5,3 @@
     - Ainda não responsivo;
     - HTML e CSS simples;
     - Respeitando as boas práticas;
-    
-    Aplicação: https://hermesonbastos.github.io/css_grid_training_bikcraft.io/
